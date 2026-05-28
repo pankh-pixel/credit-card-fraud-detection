@@ -1,6 +1,6 @@
 Credit Card Fraud Detection
 
-## Problem
+## Problem 
 Banks lose millions to fraudulent transactions every year. 
 This project builds a machine learning system to detect fraud automatically.
 
@@ -25,3 +25,5 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## Dataset
 Kaggle-Credit Card Fraud Detection by ULB
+## link to project
+https://credit-card-fraud-detection-pf7kappkh9fh5d7tokpds.streamlit.app/
