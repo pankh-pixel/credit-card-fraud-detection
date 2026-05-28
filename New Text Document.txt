@@ -22,3 +22,4 @@ if st.button('Predict'):
         st.error(f'FRAUD DETECTED — {probability*100:.1f}% confidence')
     else:
         st.success(f'Legitimate Transaction — {probability*100:.1f}% fraud probability')
+st.info('Note: This demo uses Amount and Time as inputs. V1-V28 features are set to default values. In production, all 30 features would be captured automatically by the bank system.')
